@@ -1,0 +1,12 @@
+java.util.TreeMap.fixAfterInsertion,7.0673350516401525
+collections.Add.addToStack,2.7393483043078377E-7
+java.util.Arrays.copyOf,1.9566773602198838E-8
+collections.Add.addToLinkedList,1.8588434922088896E-7
+java.util.TreeMap.put,54.135435412342254
+collections.Add.addToArrayList,2.6415144362968433E-7
+java.lang.invoke.InvokerBytecodeGenerator.isStaticallyInvocable,9.783386801099419E-9
+java.util.LinkedList.linkLast,9.783386801099419E-9
+collections.Add.addToTreeSet,1.8264598311610107
+java.lang.ref.Reference.waitForReferencePendingList,0.0
+java.lang.Integer.valueOf,9.783386801099419E-9
+java.lang.Thread.getStackTrace,1.5234361024610608
