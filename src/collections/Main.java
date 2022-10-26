@@ -14,7 +14,7 @@ public class Main {
         String fileName8 = "vector.csv";
         String fileName9 = "stack.csv";
         
-        int number = 100000;
+        int number = 1000000;
         int seed = 200;
         
         //Arraylist collection Add
